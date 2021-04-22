@@ -1,0 +1,13 @@
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csprojAssemblyReference.cache
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.exe
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.deps.json
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.json
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.runtimeconfig.dev.json
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\bin\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.dll
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.pdb
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\Prova\exercicio1\obj\Debug\netcoreapp3.1\exercicio1.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+.pbt {
+    margin: 10px;
+    width: 100px;
+}
+
+.posicao {
+    position:absolute;
+    left: 500px;
+}

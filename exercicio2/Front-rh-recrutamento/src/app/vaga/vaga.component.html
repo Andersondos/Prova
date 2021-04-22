@@ -1,0 +1,42 @@
+<div class="container space">
+  <div class="titulo">
+    <h1>Vagas</h1>
+  </div>
+
+  <button class="btn btn-outline-primary " color="primary" routerLink="/cadastrarVaga" title="Editar">
+    Cadastrar
+  </button>
+
+  <table class="table table-striped comBordas">
+    <thead>
+      <tr>
+        <th scope="col">Empresa</th>
+        <th scope="col">Endereço</th>
+        <th scope="col">Telefone</th>
+        <th scope="col">Email</th>
+        <th scope="col">Responsalvel</th>
+        <th scope="col">tecnologias</th>
+        <th scope="col">status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let vaga of vagaList">
+        <td>{{carga.empresa}}</td>
+        <td>{{carga.endereco}}</td>
+        <td>{{carga.telefone}}</td>
+        <td>{{carga.Email}}</td>
+        <td>{{carga.responsavel}}</td>
+        <td>{{carga.tecnologia}}</td>
+
+        <td>
+          <button class="btn btn-outline-primary" color="primary" routerLink="/editar" title="Editar">
+            Editar
+          </button>
+          <button class="btn btn-outline-primary" color="primary" (click)="Excluir(carga.id)" title="Excluir">
+            Excluir
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
